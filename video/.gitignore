@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+output/*.parts/
+output/master.mp4

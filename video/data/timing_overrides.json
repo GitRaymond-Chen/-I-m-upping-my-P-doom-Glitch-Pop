@@ -1,0 +1,8 @@
+{
+  "_note": "Word start times (seconds) verified with targeted short-window ASR on the vocal stem; applied on top of the automatic alignment. Keys are 1-based line numbers.",
+  "6": {"P(doom)": 31.50, "'cause": 31.92, "the": 32.25, "future": 32.46},
+  "8": {"shoggoth's": 37.96},
+  "15": {"P(doom),": 68.10, "I": 68.66, "hear": 68.90, "the": 69.04, "basilisk": 69.14},
+  "34": {"thesis": 115.35, "blues": 117.15},
+  "40": {"see?": 141.55, "We'll": 141.76, "never": 142.08, "know": 142.48}
+}
